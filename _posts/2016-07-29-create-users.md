@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-29T20:18:50.819Z'
+datePublished: '2016-07-29T20:24:16.816Z'
 sourcePath: _posts/2016-07-29-create-users.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d404529b-8704-495e-8113-6a93f8e9a065.png
 author: []
 via: {}
-dateModified: '2016-07-29T20:18:49.970Z'
+dateModified: '2016-07-29T20:24:16.529Z'
 title: Partner Community Demo Setup
 publisher: {}
 description: >-
@@ -13,10 +11,9 @@ description: >-
   community is already set up, you'll need to make sure the Partner's company
   exists as an account in your org. On their account page select "Enable Partner
   User".
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: partner-community-demo-setup/index.html
 _type: MediaObject
 
 ---
