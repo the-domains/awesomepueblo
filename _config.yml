@@ -1,0 +1,14 @@
+layout_spectrum: 0.42634084168821573
+typography_spectrum: 0.7876476801466197
+color:
+  brandStrength: 0.3283736542798579
+  lightness: 0.7123083763290197
+  saturation: 0.7787912478670478
+  rhythmicContrast: 0.5646799155510962
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: AwesomePueblo
