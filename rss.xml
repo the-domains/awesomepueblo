@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AwesomePueblo]]></title>
-        <description><![CDATA[AwesomePueblo]]></description>
+        <title><![CDATA[Salesforce Projects]]></title>
+        <description><![CDATA[Salesforce Projects]]></description>
         <link>https://thegrid.ai/awesomepueblo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 18:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 19:10:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/awesomepueblo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marketing Flow to Delete Contacts and Create Lead records]]></title>
+            <description><![CDATA[<article><h1>Marketing Flow to Delete Contacts and Create Lead records</h1><p>Creating Flows and Processes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc255e4-5693-4643-82f3-6c2229b76b00.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc255e4-5693-4643-82f3-6c2229b76b00.png</link>
+            <guid isPermaLink="false">d02734d0-a11e-44b3-b3d3-05e9916bc924</guid>
+            <pubDate>Fri, 29 Jul 2016 19:10:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sevenhugs' Smart Remote]]></title>
             <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
