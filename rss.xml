@@ -4,14 +4,14 @@
         <description><![CDATA[Salesforce Projects]]></description>
         <link>https://thegrid.ai/awesomepueblo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 20:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 20:18:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/awesomepueblo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Create Users]]></title>
-            <description><![CDATA[<article><h1>Create Users</h1><p>In order to create Users in a Partner Community, assuming the partner community is already set up, you'll need to make sure the Partner's company exists as an account in your org. On their account page select "Enable Partner User".</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f9064bf-0262-4d97-9f72-d827ef4f3837.png"></article>]]></description>
+            <title><![CDATA[Partner Community Demo Setup]]></title>
+            <description><![CDATA[<article><h1>Partner Community Demo Setup</h1><h2>Create Users</h2><p>In order to create Users in a Partner Community, assuming the partner community is already set up, you'll need to make sure the Partner's company exists as an account in your org. On their account page select "Enable Partner User".</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f9064bf-0262-4d97-9f72-d827ef4f3837.png"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d404529b-8704-495e-8113-6a93f8e9a065.png</link>
             <guid isPermaLink="false">a7074a64-11a7-4c50-810b-83e5e645baa1</guid>
-            <pubDate>Fri, 29 Jul 2016 20:02:41 GMT</pubDate>
+            <pubDate>Fri, 29 Jul 2016 20:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marketing Flow to Delete Contacts and Create Lead records]]></title>
