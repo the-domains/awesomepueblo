@@ -1,9 +1,9 @@
-typography_spectrum: 0.5504402632359415
+typography_spectrum: 0.37372206011787057
 color:
-  brandStrength: 0.39821251458488405
-  lightness: 0.8528231547679752
-  saturation: 0.34094238257966936
-  rhythmicContrast: 0.1506772560533136
+  brandStrength: 0.24034432019107044
+  lightness: 0.45441271318122745
+  saturation: 0.019609158392995596
+  rhythmicContrast: 0.649043355602771
   brandColors:
     - '#FFF8E3'
     - '#CCCC9F'
@@ -15,5 +15,8 @@ name: AwesomePueblo
 navigation:
   - name: Partner Community Demo Setup
     id: a7074a64-11a7-4c50-810b-83e5e645baa1
+    type: content
+  - name: Marketing Flow to Delete Contacts and Create Lead records
+    id: d02734d0-a11e-44b3-b3d3-05e9916bc924
     type: content
 title: Salesforce Projects
