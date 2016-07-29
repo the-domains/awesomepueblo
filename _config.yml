@@ -1,15 +1,15 @@
 layout_spectrum: 0.42634084168821573
-typography_spectrum: 0.7876476801466197
+typography_spectrum: 0.5477674349676818
 color:
-  brandStrength: 0.3283736542798579
-  lightness: 0.7123083763290197
-  saturation: 0.7787912478670478
-  rhythmicContrast: 0.5646799155510962
+  brandStrength: 0.3838675457518548
+  lightness: 0.24308055476285517
+  saturation: 0.7029648332390934
+  rhythmicContrast: 0.38434154633432627
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 name: AwesomePueblo
 title: Salesforce Projects
