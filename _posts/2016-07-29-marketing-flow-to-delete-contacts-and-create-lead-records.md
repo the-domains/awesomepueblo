@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-29T20:02:38.574Z'
+datePublished: '2016-07-29T20:36:20.562Z'
 sourcePath: _posts/2016-07-29-marketing-flow-to-delete-contacts-and-create-lead-records.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc255e4-5693-4643-82f3-6c2229b76b00.png
 author: []
 via: {}
-dateModified: '2016-07-29T19:49:05.057Z'
+dateModified: '2016-07-29T20:36:20.240Z'
 title: Marketing Flow to Delete Contacts and Create Lead records
 publisher: {}
 description: Creating Flows and Processes.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: marketing-flow-to-delete-contacts-and-create-lead-records/index.html
 _type: MediaObject
 
 ---
