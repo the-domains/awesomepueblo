@@ -16,4 +16,7 @@ navigation:
   - name: 'Step by Step Through Email-to-Case, again, again'
     id: cf21c575-c842-49e8-a52b-4f7d88f9a24b
     type: content
+  - name: Partner Community Demo Setup
+    id: a7074a64-11a7-4c50-810b-83e5e645baa1
+    type: content
 title: Salesforce Projects
