@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-08-02T19:14:46.450Z'
+datePublished: '2016-08-02T20:27:28.485Z'
 sourcePath: _posts/2016-08-02-step-by-step-through-email-to-case-again-again.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88010e6-46d7-40c1-9b9a-6aa7807e9d5c.png
 author: []
 via: {}
-dateModified: '2016-08-02T19:14:45.806Z'
+dateModified: '2016-08-02T20:27:27.973Z'
 title: 'Step by Step Through Email-to-Case, again, again'
 publisher: {}
 description: >-
   Guide I'm following now that I've got a test email address from the IT that's
   actually set up on our Exchange Server and not just a gmail account.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: step-by-step-through-email-to-case-again-again/index.html
 _type: MediaObject
 
 ---
