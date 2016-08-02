@@ -1,15 +1,19 @@
+typography_spectrum: 0.3496295490767807
 color:
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-  brandStrength: 0.974844987038523
-  lightness: 0.3781194584444165
-  rhythmicContrast: 0.5820469956379384
-  saturation: 0.641851285006851
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+  brandStrength: 0.9066335132811219
+  lightness: 0.6615799940191209
+  rhythmicContrast: 0.8202029929962009
+  saturation: 0.4524022184778005
 layout_spectrum: 0.07966579077765346
 name: AwesomePueblo
+navigation:
+  - name: 'Step by Step Through Email-to-Case, again, again'
+    id: cf21c575-c842-49e8-a52b-4f7d88f9a24b
+    type: content
 title: Salesforce Projects
-typography_spectrum: 0.16123787453398108
