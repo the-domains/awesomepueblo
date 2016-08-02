@@ -1,21 +1,21 @@
 ---
-datePublished: '2016-08-02T20:27:28.485Z'
-sourcePath: _posts/2016-08-02-step-by-step-through-email-to-case-again-again.md
-author: []
-via: {}
-dateModified: '2016-08-02T20:27:27.973Z'
-title: 'Step by Step Through Email-to-Case, again, again'
+title: 'Step by Step Through Email-to-Case, again, again…'
+datePublished: '2016-08-02T22:29:52.476Z'
+dateModified: '2016-08-02T22:26:26.772Z'
 publisher: {}
+author: []
+hasPage: true
 description: >-
   Guide I'm following now that I've got a test email address from the IT that's
   actually set up on our Exchange Server and not just a gmail account.
-hasPage: true
+via: {}
 starred: false
+sourcePath: _posts/2016-08-02-step-by-step-through-email-to-case-again-again.md
 url: step-by-step-through-email-to-case-again-again/index.html
 _type: MediaObject
 
 ---
-# Step by Step Through Email-to-Case, again, again
+# Step by Step Through Email-to-Case, again, again...
 
 Guide I'm following now that I've got a test email address from the IT that's actually set up on our Exchange Server and not just a gmail account.
 
