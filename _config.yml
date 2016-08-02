@@ -5,10 +5,10 @@ color:
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
-  brandStrength: 0.834459
-  lightness: 0.454412
-  rhythmicContrast: 0.722973
-  saturation: 0.038288
+  brandStrength: 1
+  lightness: 0.731982
+  rhythmicContrast: 0.658784
+  saturation: 0.400901
 layout_spectrum: 0
 name: AwesomePueblo
 title: Salesforce Projects
