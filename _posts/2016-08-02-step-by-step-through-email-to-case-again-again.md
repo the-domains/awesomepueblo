@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-02T15:46:12.778Z'
+datePublished: '2016-08-02T19:14:46.450Z'
+sourcePath: _posts/2016-08-02-step-by-step-through-email-to-case-again-again.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88010e6-46d7-40c1-9b9a-6aa7807e9d5c.png
 author: []
 via: {}
-dateModified: '2016-08-02T15:46:00.061Z'
+dateModified: '2016-08-02T19:14:45.806Z'
 title: 'Step by Step Through Email-to-Case, again, again'
 publisher: {}
 description: >-
   Guide I'm following now that I've got a test email address from the IT that's
   actually set up on our Exchange Server and not just a gmail account.
 starred: false
-sourcePath: _posts/2016-08-02-step-by-step-through-email-to-case-again-again.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -94,7 +94,7 @@ _Verifying the email , done_
 
 _Asked IT to forward emails to our test support address to the long SFDC email string. done. When the emails came in to Salesforce and created the case they were automatically marked closed. I have a process to do this that forgot about. "Mark Case Closed" process. Deactivated that._
 
-__\*need to enable Feed View on the Case page layout. I remember this being a sticking point for people at the training down in FL. I don't remember having an issue myself then but can't figure it out now.
+\*need to enable Feed View on the Case page layout. I remember this being a sticking point for people at the training down in FL. I don't remember having an issue myself then but can't figure it out now.
 
 Think this is it.
 
