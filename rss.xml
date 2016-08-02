@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Salesforce Projects]]></title>
+        <description><![CDATA[Salesforce Projects]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 15:46:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Step by Step Through Email-to-Case, again, again]]></title>
+            <description><![CDATA[<article><h1>Step by Step Through Email-to-Case, again, again</h1><h2>Service Cloud Workbook</h2><p>Guide I'm following now that I've got a test email address from the IT that's actually set up on our Exchange Server and not just a gmail account.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec481da5-4e73-49a6-b9e1-196f397f36f4.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88010e6-46d7-40c1-9b9a-6aa7807e9d5c.png</link>
+            <guid isPermaLink="false">cf21c575-c842-49e8-a52b-4f7d88f9a24b</guid>
+            <pubDate>Tue, 02 Aug 2016 15:46:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
