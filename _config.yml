@@ -19,4 +19,7 @@ navigation:
   - name: Partner Community Demo Setup
     id: a7074a64-11a7-4c50-810b-83e5e645baa1
     type: content
+  - name: Marketing Flow to Delete Contacts and Create Lead records
+    id: d02734d0-a11e-44b3-b3d3-05e9916bc924
+    type: content
 title: Salesforce Projects
