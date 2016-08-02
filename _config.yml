@@ -1,3 +1,5 @@
+name: AwesomePueblo
+layout_spectrum: 0.07966579077765346
 typography_spectrum: 0.3496295490767807
 color:
   brandColors:
@@ -8,10 +10,9 @@ color:
     - '#F6FFE0'
   brandStrength: 0.9066335132811219
   lightness: 0.6615799940191209
-  rhythmicContrast: 0.8202029929962009
   saturation: 0.4524022184778005
-layout_spectrum: 0.07966579077765346
-name: AwesomePueblo
+  rhythmicContrast: 0.8202029929962009
+title: Salesforce Projects
 navigation:
   - name: 'Step by Step Through Email-to-Case, again, again'
     id: cf21c575-c842-49e8-a52b-4f7d88f9a24b
@@ -22,4 +23,3 @@ navigation:
   - name: Marketing Flow to Delete Contacts and Create Lead records
     id: d02734d0-a11e-44b3-b3d3-05e9916bc924
     type: content
-title: Salesforce Projects
