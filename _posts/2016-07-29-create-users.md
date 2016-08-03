@@ -1,23 +1,23 @@
 ---
-title: Partner Community Demo Setup.
-datePublished: '2016-08-02T22:30:47.509Z'
-dateModified: '2016-08-02T22:30:25.760Z'
-publisher: {}
-author: []
+datePublished: '2016-08-03T17:39:43.244Z'
+sourcePath: _posts/2016-07-29-create-users.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-03T17:39:42.133Z'
+title: Partner Community Demo Setup
+publisher: {}
 description: >-
   In order to create Users in a Partner Community, assuming the partner
   community is already set up, you'll need to make sure the Partner's company
   exists as an account in your org. On their account page select "Enable Partner
   User".
-via: {}
 starred: false
-sourcePath: _posts/2016-07-29-create-users.md
 url: partner-community-demo-setup/index.html
 _type: MediaObject
 
 ---
-# Partner Community Demo Setup.
+# Partner Community Demo Setup
 
 ## Create Users
 
