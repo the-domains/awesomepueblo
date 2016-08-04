@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-03T17:39:43.244Z'
+datePublished: '2016-08-04T18:42:26.923Z'
 sourcePath: _posts/2016-07-29-create-users.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T17:39:42.133Z'
+dateModified: '2016-08-04T18:42:26.412Z'
 title: Partner Community Demo Setup
 publisher: {}
 description: >-
   In order to create Users in a Partner Community, assuming the partner
   community is already set up, you'll need to make sure the Partner's company
   exists as an account in your org. On their account page select "Enable Partner
-  User".
+  User"...
 starred: false
 url: partner-community-demo-setup/index.html
 _type: MediaObject
@@ -21,7 +21,7 @@ _type: MediaObject
 
 ## Create Users
 
-In order to create Users in a Partner Community, assuming the partner community is already set up, you'll need to make sure the Partner's company exists as an account in your org. On their account page select "Enable Partner User".
+In order to create Users in a Partner Community, assuming the partner community is already set up, you'll need to make sure the Partner's company exists as an account in your org. On their account page select "Enable Partner User"...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f9064bf-0262-4d97-9f72-d827ef4f3837.png)
 
 Create Contacts associated with that account and Enable them too as Partner Users. Once enabled you'll be taken to their user profile page.
