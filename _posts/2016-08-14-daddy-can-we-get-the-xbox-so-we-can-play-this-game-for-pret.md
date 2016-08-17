@@ -1,18 +1,20 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: ''
-dateModified: '2016-08-14T15:42:04.698Z'
-publisher: {}
-author: []
-inFeed: true
-description: 'Daddy, can we get the Xbox so we can play this game for pretend?'
-via: {}
-datePublished: '2016-08-14T15:42:05.782Z'
-starred: false
+datePublished: '2016-08-17T16:24:01.669Z'
 sourcePath: >-
   _posts/2016-08-14-daddy-can-we-get-the-xbox-so-we-can-play-this-game-for-pret.md
+inFeed: true
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-08-17T16:24:01.282Z'
+title: Funny Thing My Kids Say
+publisher: {}
+at__context: 'http://schema.org'
+description: 'Daddy, can we get the Xbox so we can play this game for pretend? - Joel'
+starred: false
 _type: Blurb
 
 ---
-Daddy, can we get the Xbox so we can play this game for pretend?
+# Funny Thing My Kids Say
+
+Daddy, can we get the Xbox so we can play this game for pretend? - Joel
