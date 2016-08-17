@@ -1,5 +1,3 @@
-name: AwesomePueblo
-layout_spectrum: 0.07966579077765346
 typography_spectrum: 0.3496295490767807
 color:
   brandColors:
@@ -12,7 +10,8 @@ color:
   lightness: 0.6615799940191209
   saturation: 0.4524022184778005
   rhythmicContrast: 0.8202029929962009
-title: Salesforce Projects
+layout_spectrum: 0.07966579077765346
+name: AwesomePueblo
 navigation:
   - name: 'Step by Step Through Email-to-Case, again, again'
     id: cf21c575-c842-49e8-a52b-4f7d88f9a24b
@@ -23,3 +22,7 @@ navigation:
   - name: Marketing Flow to Delete Contacts and Create Lead records
     id: d02734d0-a11e-44b3-b3d3-05e9916bc924
     type: content
+  - name: Funny Thing My Kids Say
+    id: f08bd074-b2a2-4ddb-bed4-e4e0ae5e7bdd
+    type: content
+title: Salesforce Projects
