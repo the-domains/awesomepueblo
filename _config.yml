@@ -22,7 +22,4 @@ navigation:
   - name: Marketing Flow to Delete Contacts and Create Lead records
     id: d02734d0-a11e-44b3-b3d3-05e9916bc924
     type: content
-  - name: Funny Thing My Kids Say
-    id: f08bd074-b2a2-4ddb-bed4-e4e0ae5e7bdd
-    type: content
 title: Salesforce Projects
