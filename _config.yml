@@ -26,4 +26,7 @@ navigation:
   - name: 'Setting up a priority queue for emails coming from Internal employees. '
     id: 898ab9a2-467c-42f1-a352-7232b31cc756
     type: content
+  - name: The Quick Email Button
+    id: 927b8570-10e3-43aa-b6e0-f5a605ed23e9
+    type: content
 title: Salesforce Projects
