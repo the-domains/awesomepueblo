@@ -1,17 +1,16 @@
 ---
 description: 'Awesome discussion about URL hacking a customer '
-dateModified: '2016-08-18T21:01:06.078Z'
-datePublished: '2016-08-19T19:02:18.757Z'
+dateModified: '2016-08-19T19:02:38.795Z'
+datePublished: '2016-08-19T19:02:39.124Z'
 title: The Quick Email Button
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-the-quick-email-button.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: the-quick-email-button/index.html
+_type: Blurb
 
 ---
 # The Quick Email Button
