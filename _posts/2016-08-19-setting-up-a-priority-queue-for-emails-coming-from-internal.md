@@ -2,19 +2,18 @@
 description: >-
   Created an Internal communication queue to have emails from employees sent
   to. 
-dateModified: '2016-08-17T19:02:50.239Z'
-datePublished: '2016-08-19T19:02:15.653Z'
+dateModified: '2016-08-19T19:02:27.083Z'
+datePublished: '2016-08-19T19:02:27.360Z'
 title: 'Setting up a priority queue for emails coming from Internal employees. '
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-setting-up-a-priority-queue-for-emails-coming-from-internal.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: setting-up-a-priority-queue-for-emails-coming-from-internal/index.html
+_type: Blurb
 
 ---
 # Setting up a priority queue for emails coming from Internal employees. 
