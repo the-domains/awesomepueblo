@@ -12,6 +12,7 @@ color:
   rhythmicContrast: 0.8202029929962009
 layout_spectrum: 0.07966579077765346
 name: AwesomePueblo
+style: taylor
 navigation:
   - name: 'Step by Step Through Email-to-Case, again, again'
     id: cf21c575-c842-49e8-a52b-4f7d88f9a24b
@@ -21,5 +22,8 @@ navigation:
     type: content
   - name: Marketing Flow to Delete Contacts and Create Lead records
     id: d02734d0-a11e-44b3-b3d3-05e9916bc924
+    type: content
+  - name: 'Setting up a priority queue for emails coming from Internal employees. '
+    id: 898ab9a2-467c-42f1-a352-7232b31cc756
     type: content
 title: Salesforce Projects
