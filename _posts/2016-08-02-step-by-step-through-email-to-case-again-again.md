@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-04T18:42:19.304Z'
+datePublished: '2016-08-29T18:02:09.291Z'
 sourcePath: _posts/2016-08-02-step-by-step-through-email-to-case-again-again.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T18:42:18.287Z'
-title: 'Step by Step Through Email-to-Case, again, again...'
+dateModified: '2016-08-29T18:02:08.885Z'
+title: 'Step by Step Through Email-to-Case, again, again..'
 publisher: {}
 description: >-
   Guide I'm following now that I've got a test email address from the IT that's
@@ -15,7 +15,7 @@ url: step-by-step-through-email-to-case-again-again/index.html
 _type: MediaObject
 
 ---
-# Step by Step Through Email-to-Case, again, again...
+# Step by Step Through Email-to-Case, again, again..
 
 Guide I'm following now that I've got a test email address from the IT that's actually set up on our Exchange Server and not just a gmail account...
 
