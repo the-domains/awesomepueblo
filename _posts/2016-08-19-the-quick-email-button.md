@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-25T20:40:36.416Z'
+datePublished: '2016-08-29T18:01:52.110Z'
 sourcePath: _posts/2016-08-19-the-quick-email-button.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T20:40:36.038Z'
+dateModified: '2016-08-29T18:01:51.843Z'
 title: The Quick Email Button
 publisher: {}
 description: Awesome discussion about URL hacking a customer…
@@ -28,3 +28,5 @@ Awesome discussion about URL hacking a customer...
 **p26** = From address  
 **save** = Send action  
 **template\_id** = Email template ID
+
+location.replace('/email/author/emailauthor.jsp?retURL=/{!Case.Id}&p3\_lkid={!Case.Id}&rtype=003&p2\_lkid={!Case.ContactId}&template\_id=00X12000001Z29C&p5=&p26=customer.support@confirmation.com');
